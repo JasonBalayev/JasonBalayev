@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate programmer from Stamford, Connecticut studying at Northeastern University</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=0e75b6&style=flat" alt="jasonbalayev" /> </p>
 
 - 🔭 I’m currently working on [MonkeyPox Live Tracker](https://github.com/JasonBalayev/MPOX)
