@@ -1,9 +1,8 @@
 <h1 align="center">
-  <span style="font-size: 60px;">Hi 👋, I'm Jason Balayev</span>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jason+Balayev;A+passionate+programmer;From+Stamford%2C+Connecticut;Studying+at+Northeastern+University" alt="Typing SVG">
+  </a>
 </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
 
 <h3 align="center">A passionate programmer from Stamford, Connecticut studying at Northeastern University</h3>
 
