@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center" style="color: #a0aec0;">A passionate programmer from Stamford, Connecticut studying at Northeastern University</h3>
+<h3 align="center" style="color: #a0aec0;">I am a passionate programmer from Stamford, Connecticut studying Computer Science with a concentration at Northeastern University</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=0e75b6&style=flat" alt="jasonbalayev" /> </p>
