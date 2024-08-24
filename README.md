@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jason Balayev</h1>
+<h1 align="center">
+  <span style="font-size: 60px;">Hi 👋, I'm Jason Balayev</span>
+</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
+
 <h3 align="center">A passionate programmer from Stamford, Connecticut studying at Northeastern University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=0e75b6&style=flat" alt="jasonbalayev" /> </p>
