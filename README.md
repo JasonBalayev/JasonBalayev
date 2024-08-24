@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonbalayev&show_icons=true&locale=en&layout=compact&bg_color=000000&border_color=0000FF&text_color=FFFFFF" alt="jasonbalayev" /></p>
 
-<p><img align="center" src="https://your-image-hosting.com/custom-streak-stats-image.png" alt="jasonbalayev" /></p>
+<p><img align="center" src="https://your-image-hosting.com/custom-streak-stats-image.png" alt="Current Streak" /></p>
 
 
