@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=0000FF" alt="jasonbalayev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="jasonbalayev" /></p>
+<p><img align="center" src="https://your-image-hosting.com/custom-streak-stats-image.png" alt="jasonbalayev" /></p>
 
 
