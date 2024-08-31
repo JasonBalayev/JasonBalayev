@@ -6,8 +6,6 @@
 
 <h3 align="center" style="color: #a0aec0;">
   I am a passionate programmer from Stamford, Connecticut studying Computer Science with a concentration at Northeastern University
-  <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand Emoji" width="30">
-</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=0e75b6&style=flat" alt="jasonbalayev" /> </p>
