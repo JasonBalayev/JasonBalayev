@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=0e75b6&style=flat" alt="jasonbalayev" /> </p>
 
-- 🔭 I’m currently working on [MonkeyPox Live Tracker](https://github.com/JasonBalayev/MPOX) and [Resume Latex Generator]([https://github.com/JasonBalayev/MPOX](https://github.com/JasonBalayev/Resume-To-Latex)
+- 🔭 I’m currently working on [MonkeyPox Live Tracker](https://github.com/JasonBalayev/MPOX) and [Resume Latex Generator](https://github.com/JasonBalayev/MPOX](https://github.com/JasonBalayev/Resume-To-Latex)
   
 - 🌐 Visit my personal website: [Jason Balayev's Website Portfolio](https://jasonbalayev.dev)
 
