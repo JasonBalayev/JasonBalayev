@@ -63,9 +63,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=0000FF" /></p>
 
-<div align="center">
-  <img 
-       src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=footer" 
-       alt="wave footer"
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&animation=fadeIn"
+    alt="wave footer"
+    style="width: 100%;"
   />
 </div>
