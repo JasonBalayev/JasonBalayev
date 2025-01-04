@@ -1,6 +1,6 @@
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:8e44ad&height=180&section=header&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:5F27CD&height=180&section=header&animation=fadeIn"
     alt="wave header"
     style="width: 100%;"
   />
@@ -21,7 +21,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=8e44ad&style=flat"
+    src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=5F27CD&style=flat"
     alt="jasonbalayev"
   />
 </p>
@@ -108,7 +108,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonbalayev&show_icons=true&locale=en&layout=compact&bg_color=000000&border_color=8e44ad&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonbalayev&show_icons=true&locale=en&layout=compact&bg_color=000000&border_color=5F27CD&text_color=FFFFFF"
     alt="jasonbalayev"
   />
 </p>
@@ -116,14 +116,14 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=8e44ad&ring=8e44ad&fire=8e44ad&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=8e44ad"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=5F27CD&ring=5F27CD&fire=5F27CD&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=5F27CD"
     alt="GitHub Streak"
   />
 </p>
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&animation=fadeIn&color=0:000000,100:8e44ad"
+    src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&animation=fadeIn&color=0:000000,100:5F27CD"
     alt="wave footer"
     style="width: 100%;"
   />
