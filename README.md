@@ -65,7 +65,7 @@
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=wave&height=200&section=footer&animation=fadeIn&color=0:000000,100:0d6efd"
     alt="wave footer"
     style="width: 100%;"
   />
