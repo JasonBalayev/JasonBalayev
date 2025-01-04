@@ -41,6 +41,9 @@
 
 <h3 align="left">Github Statistics:</h3>
 
+[![Jason's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jasonbalayev&theme=react-dark&bg_color=000000&color=FFFFFF&line=0000FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonbalayev&show_icons=true&locale=en&layout=compact&bg_color=000000&border_color=0000FF&text_color=FFFFFF" alt="jasonbalayev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=0000FF" /></p>
