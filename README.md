@@ -1,7 +1,8 @@
-<div align="center">
-  <img 
-       src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=270&section=header&text=BLAZING%20DESIGN&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn" 
-       alt="wave header"
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:0d6efd&height=270&section=header&animation=fadeIn"
+    alt="wave header"
+    style="width: 100%;"
   />
 </div>
 
