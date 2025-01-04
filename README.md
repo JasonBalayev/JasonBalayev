@@ -1,3 +1,10 @@
+<div align="center">
+  <img 
+       src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=270&section=header&text=BLAZING%20DESIGN&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn" 
+       alt="wave header"
+  />
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jason+Balayev;Welcome+To+My+GitHub+Page!" alt="Typing SVG">
@@ -38,13 +45,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img 
-       src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=270&section=header&text=BLAZING%20DESIGN&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn" 
-       alt="wave header"
-  />
-</div>
 
 <h2 align="center" style="color: #00ffe1; text-shadow: 0 0 10px #00ffe1;">
   UNLEASH THE FLASH!
