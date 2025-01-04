@@ -39,11 +39,43 @@
 
 ---
 
+<div align="center">
+  <img 
+       src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=270&section=header&text=BLAZING%20DESIGN&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn" 
+       alt="wave header"
+  />
+</div>
+
+<h2 align="center" style="color: #00ffe1; text-shadow: 0 0 10px #00ffe1;">
+  UNLEASH THE FLASH!
+</h2>
+
+<p align="center">
+  <img 
+       src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" 
+       alt="blazing gif" 
+       width="50%" 
+       style="border: 2px solid #00ffe1; border-radius: 15px;" 
+  />
+</p>
+
+<pre align="center" style="color: #f0f0f0; background: #000000; padding: 10px; border-radius: 5px;">
+    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+    ⣿  BLAZE AWAY, DEVS!  ⣿
+    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+</pre>
+
+<div align="center">
+  <img 
+       src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=footer" 
+       alt="wave footer"
+  />
+</div>
+
+
+---
+
 <h3 align="left">Github Statistics:</h3>
-
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonbalayev&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=0000FF&border_color=0000FF)
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonbalayev&show_icons=true&locale=en&layout=compact&bg_color=000000&border_color=0000FF&text_color=FFFFFF" alt="jasonbalayev" /></p>
 
