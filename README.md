@@ -46,10 +46,6 @@
 
 ---
 
-<h2 align="center" style="color: #00ffe1; text-shadow: 0 0 10px #00ffe1;">
-  UNLEASH THE FLASH!
-</h2>
-
 <p align="center">
   <img 
        src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" 
@@ -58,13 +54,6 @@
        style="border: 2px solid #00ffe1; border-radius: 15px;" 
   />
 </p>
-
-<pre align="center" style="color: #f0f0f0; background: #000000; padding: 10px; border-radius: 5px;">
-    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-    ⣿  BLAZE AWAY, DEVS!  ⣿
-    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-</pre>
-
 
 ---
 
