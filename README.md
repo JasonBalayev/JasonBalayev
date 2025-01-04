@@ -47,17 +47,6 @@
 
 ---
 
-<p align="center">
-  <img 
-       src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" 
-       alt="blazing gif" 
-       width="50%" 
-       style="border: 2px solid #00ffe1; border-radius: 15px;" 
-  />
-</p>
-
----
-
 <h3 align="left">Github Statistics:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonbalayev&show_icons=true&locale=en&layout=compact&bg_color=000000&border_color=0000FF&text_color=FFFFFF" alt="jasonbalayev" /></p>
