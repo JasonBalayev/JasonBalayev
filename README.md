@@ -53,35 +53,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=0000FF" /></p>
 
-<div style="position: relative; width: 100%; height: 150px; overflow: hidden;">
-  <svg
-    version="1.1"
-    baseProfile="full"
-    width="200%"
-    height="100%"
-    viewBox="0 0 1200 400"
-    preserveAspectRatio="xMinYMin"
-    style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      animation: flow 8s linear infinite;
-      transform: translate3d(0, 0, 0);
-    "
-  >
-    <!-- Background wave color -->
-    <rect width="100%" height="100%" fill="black" />
-    <path
-      d="M0,160 C320,240 480,40 800,120 C1040,190 1200,160 1200,160 L1200,400 L0,400 Z"
-      fill="#0d6efd"
-      opacity="0.8"
-    />
-  </svg>
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&animation=fadeIn&color=0:000000,100:0d6efd"
+    alt="wave footer"
+    style="width: 100%;"
+  />
 </div>
-
-<style>
-@keyframes flow {
-  0%   { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-</style>
