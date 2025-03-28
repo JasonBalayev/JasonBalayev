@@ -21,7 +21,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=5F27CD&style=flat"
+    src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=FF0000&style=flat"
     alt="jasonbalayev"
   />
 </p>
