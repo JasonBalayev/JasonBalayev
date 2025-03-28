@@ -103,24 +103,6 @@
 
 <hr />
 
-<h3 align="left">Github Statistics:</h3>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonbalayev&show_icons=true&locale=en&layout=compact&bg_color=000000&border_color=5F27CD&text_color=FFFFFF"
-    alt="jasonbalayev"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=black-ice&background=000000&stroke=5F27CD&ring=5F27CD&fire=5F27CD&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=5F27CD"
-    alt="GitHub Streak"
-  />
-</p>
-
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
     src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&animation=fadeIn&color=0:000000,100:5F27CD"
