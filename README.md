@@ -16,7 +16,7 @@
 </h1>
 
 <h3 align="center" style="color: #a0aec0;">
-  I am a passionate programmer from Stamford, Connecticut studying Computer Science with a concentration of AI @ Northeastern University
+  Programmer from Boston, Massachusetts studying Computer Science / AI @ Northeastern University
 </h3>
 
 <p align="left">
