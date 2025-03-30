@@ -1,5 +1,3 @@
-JasonBalayev / README.md
-
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
     src="https://capsule-render.vercel.app/api?type=wave&color=0:FF4040,100:FF0000&height=180&section=header&animation=fadeIn"
