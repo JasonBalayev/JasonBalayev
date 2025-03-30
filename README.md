@@ -15,9 +15,7 @@
   </a>
 </h1>
 
-<h3 align="center" style="color: #a0aec0;">
-  Programmer from Boston, Massachusetts studying Computer Science / AI @ Northeastern University
-</h3>
+
 
 <p align="left">
   <img
