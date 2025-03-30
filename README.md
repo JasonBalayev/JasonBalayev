@@ -57,8 +57,6 @@
   </a>
 </p>
 
-<hr />
-
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
