@@ -17,24 +17,6 @@
 
 
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=jasonbalayev&label=Profile%20views&color=FF0000&style=flat"
-    alt="jasonbalayev"
-  />
-</p>
-
-<ul>
-  <li>🔭 I’m currently working on 
-    <a href="https://github.com/JasonBalayev/MPOX">MonkeyPox Live Tracker</a>, 
-    <a href="https://github.com/JasonBalayev/Resume-To-Latex">Resume To Latex Generator</a>, 
-    and <a href="https://github.com/JasonBalayev/HOURBLADE">HOURBLADE</a>
-  </li>
-  <li>🌐 Visit my personal website: 
-    <a href="https://jasonbalayev.dev">Jason Balayev's Website Portfolio</a>
-  </li>
-  <li>📫 How to reach me: <strong>balayev.j@northeastern.edu</strong> or <strong>jasonbalayev@gmail.com</strong></li>
-</ul>
 
 <hr />
 
@@ -89,17 +71,6 @@
 
 <hr />
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=jasonbalayev&theme=darkhub&no-frame=true&margin-w=15"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
-
-<hr />
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
