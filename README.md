@@ -6,9 +6,7 @@
   />
 </div>
 
-<img  src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" 
-  alt="github-snake" 
-/>
+
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⢔⣒⠂⣀⣀⣤⣄⣀⠀⠀
@@ -28,6 +26,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<img  src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" 
+  alt="github-snake" 
+/>
 ```
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
