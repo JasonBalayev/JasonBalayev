@@ -15,21 +15,6 @@
   />
 </picture>
 
-<p align="center">
-  <table style="background-color: black; border: none; margin: 0 auto;">
-    <tr>
-      <td align="center">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg" width="100" style="filter: invert(1) brightness(1.5);">
-        <br>LeetCode
-      </td>
-      <td align="center">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" style="filter: invert(1) brightness(1.5);">
-        <br>Twitter
-      </td>
-    </tr>
-  </table>
-</p>
-
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
     src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:111111&height=120&section=footer&animation=fadeIn"
