@@ -6,20 +6,10 @@
   />
 </div>
 
-<picture>
-  <img 
-    src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" 
-    alt="github-snake" 
-    style="
-      filter: 
-        drop-shadow(2px 0 0 black)
-        drop-shadow(-2px 0 0 black)
-        drop-shadow(0 2px 0 black)
-        drop-shadow(0 -2px 0 black)
-        drop-shadow(0 0 8px #333333);
-    " 
-  />
-</picture>
+
+<img  src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" 
+  alt="github-snake" 
+/>
 
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
