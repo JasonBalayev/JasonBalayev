@@ -16,7 +16,7 @@
   <table style="background-color: black; border: none; margin: 0 auto;">
     <tr>
       <td align="center">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg" width="100" alt="LeetCode">
+        <img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg?fill=black" width="100">
         <br>LeetCode
       </td>
       <td align="center">
