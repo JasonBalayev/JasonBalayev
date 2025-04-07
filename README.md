@@ -6,17 +6,13 @@
   />
 </div>
 
-<!-- Pulsing glow effect -->
-<img src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" 
-     style="animation: pulse 2s infinite;" />
-
-<style>
-  @keyframes pulse {
-    0% { filter: drop-shadow(0 0 5px #333333); }
-    50% { filter: drop-shadow(0 0 15px #333333); }
-    100% { filter: drop-shadow(0 0 5px #333333); }
-  }
-</style>
+<picture>
+  <img 
+    src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" 
+    alt="github-snake" 
+    style="filter: drop-shadow(0 0 8px #333333);" 
+  />
+</picture>
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
