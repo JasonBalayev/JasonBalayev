@@ -12,14 +12,15 @@
     alt="github-snake" 
     style="
       filter: 
-        drop-shadow(0 0 4px black) 
-        drop-shadow(0 0 4px black) 
-        drop-shadow(0 0 4px black) 
-        drop-shadow(0 0 4px black)
+        drop-shadow(2px 0 0 black)
+        drop-shadow(-2px 0 0 black)
+        drop-shadow(0 2px 0 black)
+        drop-shadow(0 -2px 0 black)
         drop-shadow(0 0 8px #333333);
     " 
   />
 </picture>
+
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
