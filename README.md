@@ -10,7 +10,14 @@
   <img 
     src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" 
     alt="github-snake" 
-    style="filter: drop-shadow(0 0 8px #333333);" 
+    style="
+      filter: 
+        drop-shadow(0 0 4px black) 
+        drop-shadow(0 0 4px black) 
+        drop-shadow(0 0 4px black) 
+        drop-shadow(0 0 4px black)
+        drop-shadow(0 0 8px #333333);
+    " 
   />
 </picture>
 
