@@ -13,8 +13,7 @@
 </picture>
 
 <td>LeetCode Logo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg" width="100"</td>
-<td>Twitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitch.svg" width="100" title="Twitch"><br>271 bytes</td>
-<td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" title="Twitter"><br>352 bytes</td>
+<td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" </td>
 
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
