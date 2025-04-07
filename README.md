@@ -12,7 +12,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake.svg" />
 </picture>
 
-<td>LeetCode Logo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg" width="100" title="LeetCode Logo"><br>829 bytes</td>
+<td>LeetCode Logo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg" width="100"</td>
+<td>Twitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitch.svg" width="100" title="Twitch"><br>271 bytes</td>
+<td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" title="Twitter"><br>352 bytes</td>
+
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
   <img
