@@ -12,18 +12,6 @@
                                                                                            /$$  | $$                     
                                                                                           |  $$$$$$/                     
                                                                                            \______/                      
-  </pre>
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/main/JasonCrypto.png" alt="Jason Balayev // Digital Entity" width="180px" style="border-radius: 10px; border: 3px solid #00ff00;" /> <br/>
-  <br/>
-
-  <pre>
-  Connecting to user 'jasonbalayev'...
-  Access granted.
-  Initiating system diagnostics and data visualization...
-  </pre>
-  <br/>
 
 </div>
 
