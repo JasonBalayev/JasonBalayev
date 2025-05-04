@@ -30,20 +30,11 @@
   <br/>
   <br/>
 
-  
-
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff&color=0d1117" alt="Python Process"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=0d1117" alt="JavaScript Process"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&color=0d1117" alt="React Process"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff&color=0d1117" alt="Node.js Process"/>
     <br/>
   <br/>
 
 
-  <pre>
-  System Status: Nominal.
-  Awaiting further commands...
-  </pre>
+
 
 </div>
 
