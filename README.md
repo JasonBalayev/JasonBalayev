@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-red-black-dark.svg" alt="github-snake // Data Stream" />
+        <img src="https://raw.githubusercontent.com/jasonbalayev/jasonbalayev/output/github-snake-dark.svg" alt="github-snake // Data Stream" />
 </div>
 
 <div align="center">
