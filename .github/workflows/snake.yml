@@ -26,17 +26,26 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
+            # Keep the default light theme snake
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            # Generate the new red-themed dark snake SVG
+            # Snake body is red (#FF0000)
+            # Dots are a gradient from red to black
+            # Background is dark (#0d1117, same as your stats)
+            dist/github-snake-red-black-dark.svg?color_snake=#FF0000&color_dots=#FF0000,#D60000,#AC0000,#820000,#580000,#2E0000,#000000&color_bg=#0d1117
+            # Keep the existing ocean.gif unless you want to change/remove it
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
+          # Use the default GitHub token for API requests
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Directory containing the generated files
           publish_dir: ./dist
+          # Branch to deploy the files to
           publish_branch: output
-          # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+          # Optional: Custom commit message
+          commit_message: "Update snake animation (red theme) [skip ci]"
