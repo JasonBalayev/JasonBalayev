@@ -1,6 +1,4 @@
 <div align="center">
-
-<pre style="color: #00ff00; background-color: transparent; border: none; font-family: monospace;">
                                                                                    
  ▄▄▄██▀▀▀ ▄▄▄        ██████  ▒█████   ███▄    █     ▄▄▄▄    ▄▄▄       ██▓     ▄▄▄      ▓██   ██▓▓█████  ██▒   █▓
    ▒██   ▒████▄    ▒██    ▒ ▒██▒  ██▒ ██ ▀█   █    ▓█████▄ ▒████▄    ▓██▒    ▒████▄     ▒██  ██▒▓█   ▀ ▓██░   █▒
@@ -13,7 +11,7 @@
  ░   ░         ░  ░      ░      ░ ░           ░     ░            ░  ░    ░  ░      ░  ░ ░ ░          ░  ░      ░  
                                                          ░                              ░ ░                 ░   
   
-</pre>
+
 
 </div>
 
