@@ -10,10 +10,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbalayev&theme=dark&hide_border=true&stroke=00ff00&ring=00ffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak Stats // Activity Log" />
   <br/>
 
-</div>
-
-
-    ___    
+      ___    
    /  /\   
   /  /:/   
  /__/::\   
@@ -23,5 +20,10 @@
      /  /:/
     /__/:/ 
     \__\/  
+
+</div>
+
+
+
            
 
