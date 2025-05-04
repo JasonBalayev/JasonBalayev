@@ -20,13 +20,6 @@
 </div>
 
 <div align="center">
-  <br/>
-  <pre>
-  -----------------------------------
-  |     [ SYSTEM DATA OUTPUT ]      |
-  -----------------------------------
-  </pre>
-  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=jasonbalayev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=00ffff&bg_color=0d1117" alt="GitHub Stats // Processing Unit" />
   <br/>
@@ -37,12 +30,7 @@
   <br/>
   <br/>
 
-  <pre>
-  -----------------------------------
-  |     [ ACTIVE PROCESSES ]        |
-  -----------------------------------
-  </pre>
-    <br/>
+  
 
   <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff&color=0d1117" alt="Python Process"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=0d1117" alt="JavaScript Process"/>
