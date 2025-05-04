@@ -1,7 +1,5 @@
 <div align="center">
-
-  ![snake gif](https://github.com/JasonBalayev/JasonBalayev/blob/output/github-contribution-grid-snake.gif)
-
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/JasonBalayev/JasonBalayev/output/dist/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
