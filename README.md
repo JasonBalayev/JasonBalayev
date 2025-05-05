@@ -7,4 +7,4 @@
 
 ![Screenshot of Python code](code.png) 
 
-run code locally to recieve a message :)
+run code locally to decode the message above :)
