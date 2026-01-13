@@ -11,7 +11,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonBalayev&theme=dark&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0000&sideLabels=ffffff&dates=888888&background=0d1117" alt="GitHub Streak" />
 
-commit
 </div>
 
 <div align="center">
