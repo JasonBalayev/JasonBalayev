@@ -13,8 +13,6 @@
 
 </div>
 
-commit 
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%3E+contribution.render(snake)" alt="Contribution Snake" />
