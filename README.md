@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&repeat=true&width=400&height=45&lines=%3E+github.stats()" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonBalayev&theme=dark&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0000&sideLabels=ffffff&dates=888888&background=0d1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-zeta-cyan.vercel.app/?user=JasonBalayev&theme=dark&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0000&sideLabels=ffffff&dates=888888&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
